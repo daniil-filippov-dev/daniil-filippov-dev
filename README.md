@@ -4,7 +4,7 @@
 
 - 🔧 &nbsp;I currently work at [CODESTETIC][codestetic]
 - 🎓 &nbsp;I'm 4th year [MIET][miet] student
-- 📚 &nbsp;I'm currently learning C#, TelegramApi
+- 📚 &nbsp;I'm currently learning Solidity
 
 ### 🔗 Connect with me
 
@@ -41,10 +41,12 @@
   [<img align="left" alt="Kibana" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/kibana.svg" />][kibana]
   [<img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/postman.svg" />][postman]
   [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/github.svg" />][github]
-  &nbsp;&nbsp;
+  <br/>
+  
 </details>
 
 <details>
+  <br/>
   <summary><b>📊 Github info</b></summary>
   <br/>
   
