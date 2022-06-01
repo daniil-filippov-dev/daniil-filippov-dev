@@ -42,10 +42,8 @@
   [<img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/postman.svg" />][postman]
   [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/github.svg" />][github]
   <br/>
-  
 </details>
 <br/>
-
 <details>
   <summary><b>📊 Github info</b></summary>
   <br/>
@@ -54,7 +52,7 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euphoretic&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
+<br/>
 <details>
   <summary><b>🧗 About Me</b></summary>
   <br/>
