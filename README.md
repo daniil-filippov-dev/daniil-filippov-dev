@@ -4,7 +4,7 @@
 
 - 🔧 &nbsp;I currently work at [CODESTETIC][codestetic]
 - 🎓 &nbsp;I'm 4th year [MIET][miet] student
-- 📚 &nbsp;I'm currently learning Solidity, Vue
+- 📚 &nbsp;I'm currently learning Solidity, Django
 
 ### 🔗 Connect with me
 
