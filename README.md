@@ -51,6 +51,15 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euphoretic&count_private=true&hide=stars,issues&show_icons=true)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euphoretic&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![codewars](https://www.codewars.com/users/euphoretic/badges/large)](https://www.codewars.com/users/euphoretic)
+  
+  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=euphoretic)](https://github.com/KnlnKS/leetcode-stats)
+
+
+  ![](https://github.com/euphoretic/euphoretic/github-user-contribution.svg)
+
+
 </details>
 <br/>
 <details>
