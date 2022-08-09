@@ -57,8 +57,7 @@
   [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=euphoretic)](https://github.com/KnlnKS/leetcode-stats)
 
 
-  ![](https://github.com/euphoretic/euphoretic/github-user-contribution.svg)
-
+  ![](https://github.com/euphoretic/euphoretic/blob/main/github-user-contribution.svg)
 
 </details>
 <br/>
