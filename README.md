@@ -36,6 +36,8 @@
 [<img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/postman.svg" />][postman]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/github.svg" />][github] &nbsp;&nbsp;
 
+&nbsp;&nbsp;
+
 ### 📊 Github stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euphoretic&count_private=true&hide=issues&show_icons=true) 
