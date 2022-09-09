@@ -7,6 +7,7 @@
 ### 🔗 Connect with me
 
 [<img align="left" alt="danil_lans | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/telegram.svg"/>][telegram]
+[<img align="left" alt="Daniil Filippov | Linked In" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/linkedin.svg"/> ][linked.in]
 [<img align="left" alt="danil_lans | Habr career" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/habr.svg"/> ][career.habr] &nbsp;&nbsp;
 
 ### 🛠️ Languages and Tools
@@ -79,3 +80,4 @@ I like active recreation, contests and meetups.
 [jest]: https://jestjs.io/
 [kibana]: https://www.elastic.co/kibana/
 [postman]: https://www.postman.com/
+[linked.in]: https://www.linkedin.com/in/daniil-filippov-73a774249/
