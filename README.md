@@ -2,7 +2,7 @@
 
 ## I'm Software Developer
 
-- 📚 &nbsp;I'm currently learning Vue
+- 📚 &nbsp;I'm currently work with HTML5 canvas
 
 ### 🔗 Connect with me
 
