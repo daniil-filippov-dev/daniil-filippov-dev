@@ -44,9 +44,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniil-filippov-lans&count_private=true&hide=issues&show_icons=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniil-filippov-lans&layout=compact&langs_count=6)
 
-![codewars](https://www.codewars.com/users/euphoretic/badges/large)
+![codewars](https://www.codewars.com/users/daniil-filippov-lans/badges/large)
 
-![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=euphoretic)
+![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=daniil-filippov-lans)
 
 ### 🧗 About Me
 
@@ -56,7 +56,7 @@ I like active recreation, contests and meetups.
  
 [github]: https://github.com/daniil-filippov-lans
 [telegram]: https://t.me/danil_lans
-[career.habr]: https://career.habr.com/euphoretic
+[career.habr]: https://career.habr.com/daniil-filippov-lans
 [code.visualstudio]: https://code.visualstudio.com/
 [html5]: https://www.w3.org/TR/2008/WD-html5-20080122/
 [css3]: https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/
