@@ -41,8 +41,8 @@
 
 ### 📊 Github stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euphoretic&count_private=true&hide=issues&show_icons=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euphoretic&layout=compact&langs_count=6)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniil-filippov-lans&count_private=true&hide=issues&show_icons=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniil-filippov-lans&layout=compact&langs_count=6)
 
 ![codewars](https://www.codewars.com/users/euphoretic/badges/large)
 
@@ -52,9 +52,9 @@
 
 I like active recreation, contests and meetups.
 
-![github-user-contribution](https://github.com/euphoretic/euphoretic/blob/main/github-user-contribution.svg)
+![github-user-contribution](https://github.com/daniil-filippov-lans/daniil-filippov-lans/blob/main/github-user-contribution.svg)
  
-[github]: https://github.com/euphoretic
+[github]: https://github.com/daniil-filippov-lans
 [telegram]: https://t.me/danil_lans
 [career.habr]: https://career.habr.com/euphoretic
 [code.visualstudio]: https://code.visualstudio.com/
