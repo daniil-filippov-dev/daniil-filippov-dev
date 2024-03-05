@@ -2,7 +2,7 @@
 
 ## I'm Software Developer
 
-- 📚 &nbsp;I'm currently work with HTML5 canvas
+- 📚 I'm currently work with HTML5 canvas
 - 🌱 I’m currently learning WebGL technology with some 3D graphics libraries like [Three.js][Three.js] and 2D libraries like [Pixi.js][Pixi.js].
 
 ### 🔗 Connect with me
