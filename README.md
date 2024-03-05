@@ -7,11 +7,11 @@
 
 ### 🔗 Connect with me
 
-[<img align="left" alt="danil_lans | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/telegram.svg"/>][telegram]
-[<img align="left" alt="Daniil Filippov | Linked In" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/linkedin.svg"/> ][linked.in]
-[<img align="left" alt="danil_lans | Habr career" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/habr.svg"/> ][career.habr] &nbsp;&nbsp;
+[<img align="left" alt="danil_lans | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/telegram.svg"/>@danil_lans][telegram]
+[<img align="left" alt="Daniil Filippov | Linked In" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/linkedin.svg"/> daniil-filippov-73a774249][linked.in]
+[<img align="left" alt="danil_lans | Habr career" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/habr.svg"/> daniil-filippov-lans][career.habr] &nbsp;&nbsp;
 
-### 🛠️ Languages and Tools
+### 🛠️ Main skills
 
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/javascript.svg" />][javascript]
 [<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/typescript.svg" />][typescriptlang]
@@ -22,21 +22,9 @@
 [<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/graphql.svg" />][graphql]
 [<img align="left" alt="Appolo GraphQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/apollographql.svg" />][apollographql]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/nodedotjs.svg" />][nodejs]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/visualstudiocode.svg" />][code.visualstudio]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/html5.svg" />][html5]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/css3.svg" />][css3]
-[<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/bootstrap.svg" />][bootstrap]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/sass.svg" />][sass]
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/python.svg" />][python]
-[<img align="left" alt="Csharp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/csharp.svg" />][csharp]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/git.svg" />][git]
-[<img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/windowsterminal.svg" />][ubuntu]
-[<img align="left" alt="Grafana" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/grafana.svg" />][grafana]
 [<img align="left" alt="Mocha" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/mocha.svg" />][mocha]
 [<img align="left" alt="Chai" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/chai.svg" />][chai]
-[<img align="left" alt="Kibana" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/kibana.svg" />][kibana]
-[<img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/postman.svg" />][postman]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/github.svg" />][github] &nbsp;&nbsp;
+&nbsp;&nbsp;
 
 &nbsp;&nbsp;
 
