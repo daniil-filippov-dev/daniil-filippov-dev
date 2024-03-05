@@ -3,6 +3,7 @@
 ## I'm Software Developer
 
 - 📚 &nbsp;I'm currently work with HTML5 canvas
+- 🌱 I’m currently learning WebGL technology with some 3D graphics libraries like [Three.js][Three.js] and 2D libraries like [Pixi.js][Pixi.js].
 
 ### 🔗 Connect with me
 
@@ -56,6 +57,7 @@ I like active recreation, contests and meetups.
  
 [github]: https://github.com/daniil-filippov-lans
 [telegram]: https://t.me/danil_lans
+[linked.in]: https://www.linkedin.com/in/daniil-filippov-73a774249/
 [career.habr]: https://career.habr.com/daniil-filippov-lans
 [code.visualstudio]: https://code.visualstudio.com/
 [html5]: https://www.w3.org/TR/2008/WD-html5-20080122/
@@ -80,4 +82,5 @@ I like active recreation, contests and meetups.
 [jest]: https://jestjs.io/
 [kibana]: https://www.elastic.co/kibana/
 [postman]: https://www.postman.com/
-[linked.in]: https://www.linkedin.com/in/daniil-filippov-73a774249/
+[Three.js]: https://threejs.org/
+[Pixi.js]: https://pixijs.com/
