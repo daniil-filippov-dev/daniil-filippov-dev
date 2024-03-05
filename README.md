@@ -7,9 +7,9 @@
 
 ### 🔗 Connect with me
 
-[<img align="left" alt="danil_lans | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/telegram.svg"/>@danil_lans][telegram]
-[<img align="left" alt="Daniil Filippov | Linked In" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/linkedin.svg"/> daniil-filippov-73a774249][linked.in]
-[<img align="left" alt="danil_lans | Habr career" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/habr.svg"/> daniil-filippov-lans][career.habr] &nbsp;&nbsp;
+[<img align="left" alt="danil_lans | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/telegram.svg"/> ][telegram]
+[<img align="left" alt="Daniil Filippov | Linked In" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/linkedin.svg"/> ][linked.in]
+[<img align="left" alt="danil_lans | Habr career" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/habr.svg"/> ][career.habr] &nbsp;&nbsp;
 
 ### 🛠️ Main skills
 
