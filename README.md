@@ -28,8 +28,6 @@
 
 &nbsp;&nbsp;
 
-### 📊 Github stats
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniil-filippov-lans&count_private=true&hide=issues&show_icons=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniil-filippov-lans&layout=compact&langs_count=6)
 
@@ -47,11 +45,7 @@ I like active recreation, contests and meetups.
 [telegram]: https://t.me/danil_lans
 [linked.in]: https://www.linkedin.com/in/daniil-filippov-73a774249/
 [career.habr]: https://career.habr.com/daniil-filippov-lans
-[code.visualstudio]: https://code.visualstudio.com/
-[html5]: https://www.w3.org/TR/2008/WD-html5-20080122/
-[css3]: https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/
-[bootstrap]: https://getbootstrap.com/
-[sass]: https://sass-scss.ru/
+
 [javascript]: https://www.javascript.com/
 [typescriptlang]: https://www.typescriptlang.org/
 [reactjs]: https://reactjs.org/
@@ -59,16 +53,9 @@ I like active recreation, contests and meetups.
 [graphql]: https://graphql.org/
 [apollographql]: https://www.apollographql.com/
 [nodejs]: https://nodejs.org/en/
-[python]: https://www.python.org/
-[csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
-[git]: https://git-scm.com/
-[ubuntu]: https://ubuntu.com/
-[grafana]: https://grafana.com
 [docker]: https://docker.com
 [mocha]: https://mochajs.org/
 [chai]: https://www.chaijs.com/
 [jest]: https://jestjs.io/
-[kibana]: https://www.elastic.co/kibana/
-[postman]: https://www.postman.com/
 [Three.js]: https://threejs.org/
 [Pixi.js]: https://pixijs.com/
