@@ -3,7 +3,7 @@
 ## I'm Software Developer
 
 - 📚 I'm currently work with HTML5 canvas
-- 🌱 I’m currently learning WebGL technology with some 3D graphics libraries like [Three.js][Three.js] and 2D libraries like [Pixi.js][Pixi.js].
+- 🌱 I’m currently learning WebGL technology with graphics library [Pixi.js][Pixi.js].
 
 ### 🔗 Connect with me
 
@@ -27,13 +27,13 @@
 &nbsp;&nbsp;
 
 &nbsp;&nbsp;
+![Leetcode Stats](https://leetcard.jacoblin.cool/daniil-filippov-lans?ext=heatmap)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniil-filippov-lans&count_private=true&hide=issues&show_icons=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniil-filippov-lans&layout=compact&langs_count=6)
 
 ![codewars](https://www.codewars.com/users/daniil-filippov-lans/badges/large)
 
-![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=daniil-filippov-lans)
 
 ### 🧗 About Me
 
