@@ -27,10 +27,10 @@
 &nbsp;&nbsp;
 
 &nbsp;&nbsp;
-![Leetcode Stats](https://leetcard.jacoblin.cool/daniil-filippov-lans?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/daniil-filippov-dev?ext=heatmap)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniil-filippov-lans&count_private=true&hide=issues&show_icons=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniil-filippov-lans&layout=compact&langs_count=6)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniil-filippov-dev&count_private=true&hide=issues&show_icons=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniil-filippov-dev&layout=compact&langs_count=6)
 
 ![codewars](https://www.codewars.com/users/daniil-filippov-lans/badges/large)
 
@@ -39,12 +39,12 @@
 
 I like active recreation, contests and meetups.
 
-![github-user-contribution](https://github.com/daniil-filippov-lans/daniil-filippov-lans/blob/main/github-user-contribution.svg)
+![github-user-contribution](https://github.com/daniil-filippov-dev/daniil-filippov-dev/blob/main/github-user-contribution.svg)
  
-[github]: https://github.com/daniil-filippov-lans
+[github]: https://github.com/daniil-filippov-dev
 [telegram]: https://t.me/danil_lans
 [linked.in]: https://www.linkedin.com/in/daniil-filippov-73a774249/
-[career.habr]: https://career.habr.com/daniil-filippov-lans
+[career.habr]: https://career.habr.com/daniil-filippov-dev
 
 [javascript]: https://www.javascript.com/
 [typescriptlang]: https://www.typescriptlang.org/
