@@ -2,8 +2,7 @@
 
 ## I'm Software Developer
 
-- 📚 I'm currently work with HTML5 canvas
-- 🌱 I’m currently learning WebGL technology with graphics library [Pixi.js][Pixi.js].
+- 📚 I'm currently work with WebGL technology with graphics library [Pixi.js][Pixi.js].
 
 ### 🔗 Connect with me
 
@@ -52,3 +51,4 @@ Won several programming competitions and hackathons.
 [jest]: https://jestjs.io/
 [Three.js]: https://threejs.org/
 [Pixi.js]: https://pixijs.com/
+
