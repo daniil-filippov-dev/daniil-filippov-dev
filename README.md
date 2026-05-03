@@ -2,7 +2,9 @@
 
 ## I'm Software Developer
 
-- 📚 I'm currently work with WebGL technology with graphics library [Pixi.js][Pixi.js].
+Senior Frontend Developer specializing in interactive graphics, real-time rendering, scalable frontend architecture, and high-performance web applications using Canvas, WebGL, React, and TypeScript.
+
+Won several programming competitions and hackathons.
 
 ### 🔗 Connect with me
 
@@ -28,14 +30,10 @@
 &nbsp;&nbsp;
 ![Leetcode Stats](https://leetcard.jacoblin.cool/daniil-filippov-dev?ext=heatmap)
 
-### 🧗 About Me
 
-Won several programming competitions and hackathons.
-
- 
 [github]: https://github.com/daniil-filippov-dev
 [telegram]: https://t.me/danil_lans
-[linked.in]: https://www.linkedin.com/in/daniil-filippov-73a774249/
+[linked.in]: https://www.linkedin.com/in/daniil-filippov-dev
 [career.habr]: https://career.habr.com/daniil-filippov-dev
 
 [javascript]: https://www.javascript.com/
